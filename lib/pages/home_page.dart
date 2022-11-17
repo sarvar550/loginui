@@ -143,7 +143,7 @@ class _HomePageState extends State<HomePage> {
                                   borderRadius: BorderRadius.circular(50),
                                 ),
                                 onPressed: (){},
-                                child: Text("GitHub", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, ),),
+                                child: Text("GitLab", style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, ),),
                               ),
                             ),
                           ),
